@@ -59,7 +59,6 @@ Carlos Sebastian Ludueña
 ##
 <br>
 
-
 ```javascript
 RecursosBackend-Adoptme
 ├─ .gitignore
