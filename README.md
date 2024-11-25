@@ -3,13 +3,21 @@
 *Primer Entrega de Backend 3*
 ---------------------------
 
-Este proyecto, basado en el código inicial proporcionado por Coderhouse, implementa las funcionalidades requeridas para la primera entrega del curso de Backend 3. El objetivo principal es trabajar con el código base y realizar las siguientes tareas:
+Este proyecto, basado en el código inicial proporcionado por Coderhouse, 
+implementa las funcionalidades requeridas para la primera entrega 
+del curso de Backend 3. El objetivo principal es trabajar con el 
+código base y realizar las siguientes tareas:
 
--   Crear un router llamado `mocks.router.js` que funcione bajo la ruta base `/api/mocks`.
--   Mover el endpoint `/mockingpets` (desarrollado en el primer desafío entregable) dentro de este router.
+-   Crear un router llamado `mocks.router.js` que funcione bajo la 
+        ruta base `/api/mocks`.
+-   Mover el endpoint `/mockingpets` (desarrollado en el primer desafío entregable) 
+        dentro de este router.
 -   Crear un módulo de Mocking para generar usuarios de acuerdo a un parámetro numérico.
--   Dentro del router `mocks.router.js`, utilizar este módulo en un endpoint GET llamado `/mockingusers`, y generar 50 usuarios.
--   Dentro del router `mocks.router.js`, desarrollar un endpoint POST llamado `/generateData` que reciba los parámetros numéricos "users" y "pets" para generar e insertar en la base de datos la cantidad de registros indicados.
+-   Dentro del router `mocks.router.js`, utilizar este módulo en un endpoint GET 
+        llamado `/mockingusers`, y generar 50 usuarios.
+-   Dentro del router `mocks.router.js`, desarrollar un endpoint POST 
+        llamado `/generateData` que reciba los parámetros numéricos "users" y "pets" para
+        generar e insertar en la base de datos la cantidad de registros indicados.
 -   Comprobar dichos registros insertados mediante los servicios GET de users y pets.
 
 **Tecnologías utilizadas:**
@@ -28,7 +36,8 @@ Este proyecto, basado en el código inicial proporcionado por Coderhouse, implem
 
 **Estructura del proyecto:**
 
-El proyecto sigue la estructura base proporcionada por Coderhouse, con la adición del router `mocks.router.js` y el módulo de Mocking.
+El proyecto sigue la estructura base proporcionada por Coderhouse, con la adición del 
+router `mocks.router.js` y el módulo de Mocking.
 
 **Cómo ejecutar el proyecto:**
 
