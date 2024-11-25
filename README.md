@@ -1,6 +1,6 @@
 
-```javascript
-Primer Entrega de Backend 3
+```md
+*Primer Entrega de Backend 3*
 ---------------------------
 
 Este proyecto, basado en el código inicial proporcionado por Coderhouse, implementa las funcionalidades requeridas para la primera entrega del curso de Backend 3. El objetivo principal es trabajar con el código base y realizar las siguientes tareas:
@@ -45,8 +45,10 @@ Las contribuciones son bienvenidas. Por favor, crea un pull request con tus camb
 
 Carlos Sebastian Ludueña
 
-CSLuduena®
+*CSLuduena®*
+```
 
+```javascript
 RecursosBackend-Adoptme
 ├─ .gitignore
 ├─ package-lock.json
