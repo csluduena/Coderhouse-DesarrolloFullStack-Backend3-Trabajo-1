@@ -10,15 +10,23 @@ código base y realizar las siguientes tareas:
 
 -   Crear un router llamado `mocks.router.js` que funcione bajo la 
         ruta base `/api/mocks`.
--   Mover el endpoint `/mockingpets` (desarrollado en el primer desafío entregable) 
-        dentro de este router.
--   Crear un módulo de Mocking para generar usuarios de acuerdo a un parámetro numérico.
--   Dentro del router `mocks.router.js`, utilizar este módulo en un endpoint GET 
-        llamado `/mockingusers`, y generar 50 usuarios.
+
+-   Mover el endpoint `/mockingpets` (desarrollado en el primer 
+        desafío entregable) dentro de este router.
+
+-   Crear un módulo de Mocking para generar usuarios de acuerdo a un
+        parámetro numérico.
+
+-   Dentro del router `mocks.router.js`, utilizar este módulo en un 
+        endpoint GET llamado `/mockingusers`, y generar 50 usuarios.
+
 -   Dentro del router `mocks.router.js`, desarrollar un endpoint POST 
-        llamado `/generateData` que reciba los parámetros numéricos "users" y "pets" para
-        generar e insertar en la base de datos la cantidad de registros indicados.
--   Comprobar dichos registros insertados mediante los servicios GET de users y pets.
+        llamado `/generateData` que reciba los parámetros numéricos 
+        "users" y "pets" para generar e insertar en la base de datos 
+        la cantidad de registros indicados.
+
+-   Comprobar dichos registros insertados mediante los servicios GET 
+        de users y pets.
 
 **Tecnologías utilizadas:**
 
@@ -56,7 +64,7 @@ Carlos Sebastian Ludueña
 
 *CSLuduena®*
 ```
-##
+## 
 <br>
 
 
